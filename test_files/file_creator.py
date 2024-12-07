@@ -1,5 +1,4 @@
 import os
-import time
 
 
 # Create files of specific sizes in MB
